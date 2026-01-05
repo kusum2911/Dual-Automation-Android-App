@@ -1,1 +1,1 @@
-# Dual-Automation-Android-App
+Android-App
